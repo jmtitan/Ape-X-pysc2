@@ -1,4 +1,5 @@
-# Ape-X pysc2
+# Ape-X on Starcraft 2
 
-A simple implementation of Ape-X model based on pysc2, using ray for multi-threading.
+An implementation of Ape-X model based on pysc2.
 
+Ref: Distributed Prioritized Experience Replay
